@@ -1,0 +1,11 @@
+C:\Users\MegarajSrinivasan\OneDrive - Syncfusion\Desktop\PayrollManagement\Assembly\bin\Debug\net8.0\PayrollManagement.deps.json
+C:\Users\MegarajSrinivasan\OneDrive - Syncfusion\Desktop\PayrollManagement\Assembly\bin\Debug\net8.0\PayrollManagement.dll
+C:\Users\MegarajSrinivasan\OneDrive - Syncfusion\Desktop\PayrollManagement\Assembly\bin\Debug\net8.0\PayrollManagement.pdb
+C:\Users\MegarajSrinivasan\OneDrive - Syncfusion\Desktop\PayrollManagement\Assembly\obj\Debug\net8.0\PayrollManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MegarajSrinivasan\OneDrive - Syncfusion\Desktop\PayrollManagement\Assembly\obj\Debug\net8.0\PayrollManagement.AssemblyInfoInputs.cache
+C:\Users\MegarajSrinivasan\OneDrive - Syncfusion\Desktop\PayrollManagement\Assembly\obj\Debug\net8.0\PayrollManagement.AssemblyInfo.cs
+C:\Users\MegarajSrinivasan\OneDrive - Syncfusion\Desktop\PayrollManagement\Assembly\obj\Debug\net8.0\PayrollManagement.csproj.CoreCompileInputs.cache
+C:\Users\MegarajSrinivasan\OneDrive - Syncfusion\Desktop\PayrollManagement\Assembly\obj\Debug\net8.0\PayrollManagement.dll
+C:\Users\MegarajSrinivasan\OneDrive - Syncfusion\Desktop\PayrollManagement\Assembly\obj\Debug\net8.0\refint\PayrollManagement.dll
+C:\Users\MegarajSrinivasan\OneDrive - Syncfusion\Desktop\PayrollManagement\Assembly\obj\Debug\net8.0\PayrollManagement.pdb
+C:\Users\MegarajSrinivasan\OneDrive - Syncfusion\Desktop\PayrollManagement\Assembly\obj\Debug\net8.0\ref\PayrollManagement.dll
