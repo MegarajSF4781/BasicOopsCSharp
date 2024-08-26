@@ -1,0 +1,94 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "PayrollManagement/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/PayrollManagement.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PayrollManagement.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PayrollManagement/1.0.0": {
+      "type": "project",
+      "path": "../Assembly/PayrollManagement.csproj",
+      "msbuildProject": "../Assembly/PayrollManagement.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "PayrollManagement >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\MegarajSrinivasan\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\MegarajSrinivasan\\OneDrive - Syncfusion\\Desktop\\PayrollManagement\\Application\\Application.csproj",
+      "projectName": "Application",
+      "projectPath": "C:\\Users\\MegarajSrinivasan\\OneDrive - Syncfusion\\Desktop\\PayrollManagement\\Application\\Application.csproj",
+      "packagesPath": "C:\\Users\\MegarajSrinivasan\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\MegarajSrinivasan\\OneDrive - Syncfusion\\Desktop\\PayrollManagement\\Application\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\MegarajSrinivasan\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\MegarajSrinivasan\\OneDrive - Syncfusion\\Desktop\\PayrollManagement\\Assembly\\PayrollManagement.csproj": {
+              "projectPath": "C:\\Users\\MegarajSrinivasan\\OneDrive - Syncfusion\\Desktop\\PayrollManagement\\Assembly\\PayrollManagement.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.304/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
